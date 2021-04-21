@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<RehberKayitlar>
+  <kayit>
+    <ID>9f68a0f4-373c-45b3-971c-5b14e8000445</ID>
+    <Isim>Alparslan</Isim>
+    <soyisim>Yüce</soyisim>
+    <telefonI>05550663481</telefonI>
+    <telefonII>05543791377</telefonII>
+    <telefonIII>190319031903</telefonIII>
+    <Emailadres>alparslan.yuce@icloud.com</Emailadres>
+    <adres>darıca/kocaeli</adres>
+    <Website>www.alparslan.yuce.com</Website>
+    <Açıklama>açıklama bilgisi bulunmamaktadır.</Açıklama>
+  </kayit>
+</RehberKayitlar>
